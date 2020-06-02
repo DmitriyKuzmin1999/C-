@@ -1,0 +1,10 @@
+C:\Users\Кузя\source\repos\Pizza\Pizza\obj\Debug\Pizza.csprojAssemblyReference.cache
+C:\Users\Кузя\source\repos\Pizza\Pizza\obj\Debug\Pizza.Properties.Resources.resources
+C:\Users\Кузя\source\repos\Pizza\Pizza\obj\Debug\Pizza.csproj.GenerateResource.cache
+C:\Users\Кузя\source\repos\Pizza\Pizza\obj\Debug\Pizza.csproj.CoreCompileInputs.cache
+C:\Users\Кузя\source\repos\Pizza\Pizza\bin\Debug\Pizza.exe.config
+C:\Users\Кузя\source\repos\Pizza\Pizza\bin\Debug\Pizza.exe
+C:\Users\Кузя\source\repos\Pizza\Pizza\bin\Debug\Pizza.pdb
+C:\Users\Кузя\source\repos\Pizza\Pizza\obj\Debug\Pizza.exe
+C:\Users\Кузя\source\repos\Pizza\Pizza\obj\Debug\Pizza.pdb
+C:\Users\Кузя\source\repos\Pizza\Pizza\obj\Debug\Pizza.FMain.resources

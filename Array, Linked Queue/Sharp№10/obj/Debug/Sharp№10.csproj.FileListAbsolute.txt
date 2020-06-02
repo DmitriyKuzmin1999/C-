@@ -1,0 +1,12 @@
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\bin\Debug\Sharp№10.exe.config
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\bin\Debug\Sharp№10.exe
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\bin\Debug\Sharp№10.pdb
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp№10.csprojAssemblyReference.cache
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp_10.Form1.resources
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp_10.Properties.Resources.resources
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp№10.csproj.GenerateResource.cache
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp№10.csproj.CoreCompileInputs.cache
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp№10.exe
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp№10.pdb
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp_10.FAdd.resources
+C:\Users\Кузя\source\repos\Sharp№10\Sharp№10\obj\Debug\Sharp_10.FForAll.resources
